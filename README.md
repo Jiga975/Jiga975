@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerald</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate Backend developer and Data Analyst </h3>
 
-- 💬 Ask me about **java Springboot**
+- 💬 Ask me about **java Springboot** **Data** **AI**
 
 - 📫 How to reach me **geraldonyeka1@gmail.com**
 
