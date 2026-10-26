@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gerald</h1>
 <h3 align="center">A passionate Backend developer and Data Analyst </h3>
 
-- 💬 Ask me about **java Springboot**, **Data, and ** **AI**
+- 💬 Ask me about **java Springboot**, **Data**, and **AI**
 
-- 📫 How to reach me **geraldonyeka1@gmail.com**
+- 📫 How to reach me **geraldonyeka1@gmail.com** 
 
-- ⚡ Fun fact **I love to create**
+- ⚡ Fun fact **I love to Explore, Learn and Create**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
