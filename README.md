@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I love to Explore, Learn and Create**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on linkedIn:https://www.linkedin.com/in/gerald-iloegbunam/ </h3>
 <p align="left">
 </p>
 
